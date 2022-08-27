@@ -20,6 +20,8 @@ body {
   color: #fff;
 }
 
+/* Animation inspired by https://lenadesign.org/2021/05/18/css-bouncing-text-animation/ */
+
 @keyframes loading {
   0% {
     transform: translateY(0);
