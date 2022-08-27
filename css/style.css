@@ -17,7 +17,7 @@ body {
 .loader {
   font-size: 2rem;
   display: flex;
-  position: relative;
+  color: #fff;
 }
 
 @keyframes loading {
